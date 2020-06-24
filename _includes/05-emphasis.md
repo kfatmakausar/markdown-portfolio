@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Honors student*
+_College of Staten Island_
+
+**BS Computer Science**
+__Upcoming junior__
+
+_Amazing **computer science** student_
